@@ -6,9 +6,9 @@
 
 -  Planning to create **my own profile website with all about me!**
 
--  List of all projects that im contributing or working on are available at **[my website](kvlc.vercel.app)!**
+-  List of all projects that im contributing or working on are available at **[my website](https://kvlc.vercel.app)!**
 
--  How to reach me **[visit my website](kvlc.vercel.app)!**
+-  How to reach me **[visit my website](https://kvlc.vercel.app)!**
 
 -  Fun fact **I learn pretty fast when something is useful!**
 
