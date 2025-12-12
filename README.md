@@ -15,10 +15,5 @@ Hi, my nickname is kvlc and I'm currently learning frontend and I want to learn 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kvlc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kvlc&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=kvlc&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
