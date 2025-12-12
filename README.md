@@ -1,20 +1,24 @@
-<body>
-<h1 align="center">Hello!!, I'm Kvlc <img src="https://emojis.slackmojis.com/emojis/images/1643515241/12597/meow_heart_bongo.gif?1643515241" width="25"/></h1>
-<h3 align="center">I'am a Web Development enthusiast and i like creating new things <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="25"></h3>
+# 💫 About Me:
+Hi, my nickname is kvlc and I'm currently learning frontend and I want to learn more!<br><br>I'm currently using HTML, JS & CSS, planning to add TailWind!<br><br>You can contact me via my website!<br><br>💫Fun facts:<br>- I like anime<br>- I like playing silly blocky game
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kvlc&label=Profile%20views&color=0e75b6&style=flat" alt="kvlc" /> </p>
 
--  Planning to create **my own profile website with all about me!**
+## 🌐 Socials:
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/NoAct4299) 
 
--  List of all projects that im contributing or working on are available at **[my website](https://kvlc.vercel.app)!**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kvlc&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kvlc&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kvlc&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
--  How to reach me **[visit my website](https://kvlc.vercel.app)!**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kvlc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
--  Fun fact **I learn pretty fast when something is useful!**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kvlc&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="center">Languages tools that I presonally use</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
-  </a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=kvlc&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
